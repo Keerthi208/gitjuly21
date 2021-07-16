@@ -2,5 +2,5 @@
 #include <stdio.h>
 void main()
 {
-print("It is fun1")
+print("It is fun1");
 }
